@@ -1,0 +1,20 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+class Solution {
+public:
+    vector<string> fizzBuzz(int n) {
+        vector<string>key;
+       for (int i = 1; i <= n; ++i) {
+            if (i % 3 == 0 && i%5==0)
+                key.push_back("FizzBuzz");
+            else if (i % 3 == 0)
+                key.push_back("Fizz");
+            else if(i%5==0)
+                key.push_back("Buzz");
+            else
+                key.push_back(to_string(i));
+        }
+        return key;
+    }
+};
