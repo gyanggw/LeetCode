@@ -16,4 +16,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gyanggw/LeetCode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/gyanggw/LeetCode/tree/master/1929-concatenation-of-array) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/gyanggw/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
