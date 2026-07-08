@@ -21,10 +21,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gyanggw/LeetCode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/gyanggw/LeetCode/tree/master/0189-rotate-array) |
 | [1929-concatenation-of-array](https://github.com/gyanggw/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/gyanggw/LeetCode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gyanggw/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
