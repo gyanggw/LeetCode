@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gyanggw/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/gyanggw/LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/gyanggw/LeetCode/tree/master/2235-add-two-integers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gyanggw/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gyanggw/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gyanggw/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
