@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gyanggw/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gyanggw/LeetCode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/gyanggw/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/gyanggw/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/gyanggw/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/gyanggw/LeetCode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/gyanggw/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gyanggw/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/gyanggw/LeetCode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/gyanggw/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/gyanggw/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
