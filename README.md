@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gyanggw/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/gyanggw/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/gyanggw/LeetCode/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/gyanggw/LeetCode/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/gyanggw/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/gyanggw/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -64,4 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gyanggw/LeetCode/tree/master/0217-contains-duplicate) |
+| [1051-height-checker](https://github.com/gyanggw/LeetCode/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gyanggw/LeetCode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gyanggw/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
