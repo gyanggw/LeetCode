@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gyanggw/LeetCode/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/gyanggw/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gyanggw/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/gyanggw/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/gyanggw/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
