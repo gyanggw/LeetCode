@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gyanggw/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gyanggw/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/gyanggw/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/gyanggw/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/gyanggw/LeetCode/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/gyanggw/LeetCode/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/gyanggw/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/gyanggw/LeetCode/tree/master/1051-height-checker) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gyanggw/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
